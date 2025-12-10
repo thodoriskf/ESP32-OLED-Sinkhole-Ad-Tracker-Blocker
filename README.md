@@ -5,7 +5,8 @@
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Platform](https://img.shields.io/badge/platform-ESP32-orange)
 
 ## Overview
-This project transforms a standard **ESP32 development board (specifically the version with an integrated 0.96" OLED)** into a dedicated DNS Sinkhole. Similar to a Pi-hole but for microcontrollers, it intercepts DNS requests on your local network. <img width="800" height="1542" alt="image" src="https://github.com/user-attachments/assets/62a8582e-a398-4500-8493-9354ceaf8398" />
+This project transforms a standard **ESP32 development board (specifically the version with an integrated 0.96" OLED)** into a dedicated DNS Sinkhole. Similar to a Pi-hole but for microcontrollers, it intercepts DNS requests on your local network. <img width="800" height="1542" alt="image" src="https://github.com/user-attachments/assets/81f94ee5-4dcd-49d7-bf26-e502189f6627" />
+
 
 
 
